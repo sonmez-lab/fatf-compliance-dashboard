@@ -15,3 +15,4 @@ All notable changes to this project.
 - [2025-03-03] Update: AML risk assessment methodology
 - [2025-03-03] Add: smart contract audit findings
 - [2025-03-05] Add: sanctions screening documentation
+- [2025-03-05] Update: watchlist matching algorithm
