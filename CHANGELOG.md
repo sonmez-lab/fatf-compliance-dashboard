@@ -20,3 +20,4 @@ All notable changes to this project.
 - [2025-03-06] Update: KYC/KYT process documentation
 - [2025-03-07] Research: DeFi compliance requirements
 - [2025-03-07] Research: blockchain compliance analysis
+- [2025-03-07] Docs: regulatory framework notes
