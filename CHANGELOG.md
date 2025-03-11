@@ -22,3 +22,4 @@ All notable changes to this project.
 - [2025-03-07] Research: blockchain compliance analysis
 - [2025-03-07] Docs: regulatory framework notes
 - [2025-03-11] Research: cross-border transaction monitoring
+- [2025-03-11] Fix: address validation edge cases
