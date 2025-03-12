@@ -28,3 +28,4 @@ All notable changes to this project.
 - [2025-03-12] Update: OFAC SDN list integration
 - [2025-03-12] Docs: regulatory framework notes
 - [2025-03-12] Fix: address validation edge cases
+- [2025-03-12] Add: sanctions screening documentation
