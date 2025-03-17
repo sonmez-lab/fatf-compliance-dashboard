@@ -42,3 +42,4 @@ All notable changes to this project.
 - [2025-03-17] Refactor: compliance validation logic
 - [2025-03-17] Add: smart contract audit findings
 - [2025-03-17] Add: transaction risk scoring model
+- [2025-03-17] Docs: regulatory framework notes
