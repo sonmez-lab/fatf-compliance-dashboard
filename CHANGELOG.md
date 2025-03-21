@@ -47,3 +47,4 @@ All notable changes to this project.
 - [2025-03-18] Refactor: compliance validation logic
 - [2025-03-18] Update: KYC/KYT process documentation
 - [2025-03-18] Add: smart contract audit findings
+- [2025-03-20] Update: AML risk assessment methodology
