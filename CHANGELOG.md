@@ -56,3 +56,4 @@ All notable changes to this project.
 - [2025-03-24] Docs: regulatory framework notes
 - [2025-03-24] Docs: API integration guidelines
 - [2025-03-25] Docs: API integration guidelines
+- [2025-03-25] Update: watchlist matching algorithm
