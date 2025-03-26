@@ -58,3 +58,4 @@ All notable changes to this project.
 - [2025-03-25] Docs: API integration guidelines
 - [2025-03-25] Update: watchlist matching algorithm
 - [2025-03-26] Research: DeFi compliance requirements
+- [2025-03-26] Research: blockchain compliance analysis
