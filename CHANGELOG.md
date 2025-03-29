@@ -61,3 +61,4 @@ All notable changes to this project.
 - [2025-03-26] Research: blockchain compliance analysis
 - [2025-03-28] Docs: API integration guidelines
 - [2025-03-28] Update: AML risk assessment methodology
+- [2025-03-29] Add: smart contract audit findings
