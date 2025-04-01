@@ -66,3 +66,4 @@ All notable changes to this project.
 - [2025-03-30] Fix: address validation edge cases
 - [2025-03-30] Update: AML risk assessment methodology
 - [2025-03-31] Research: DeFi compliance requirements
+- [2025-04-01] Refactor: compliance validation logic
