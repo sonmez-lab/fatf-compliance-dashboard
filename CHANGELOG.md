@@ -72,3 +72,4 @@ All notable changes to this project.
 - [2025-04-03] Research: DeFi compliance requirements
 - [2025-04-03] Analysis: FATF travel rule implementation
 - [2025-04-03] Add: transaction risk scoring model
+- [2025-04-03] Research: blockchain compliance analysis
