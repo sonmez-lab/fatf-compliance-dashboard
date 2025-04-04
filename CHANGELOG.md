@@ -74,3 +74,4 @@ All notable changes to this project.
 - [2025-04-03] Add: transaction risk scoring model
 - [2025-04-03] Research: blockchain compliance analysis
 - [2025-04-04] Add: sanctions screening documentation
+- [2025-04-04] Fix: address validation edge cases
