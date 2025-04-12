@@ -87,3 +87,4 @@ All notable changes to this project.
 - [2025-04-10] Add: smart contract audit findings
 - [2025-04-10] Update: AML risk assessment methodology
 - [2025-04-10] Analysis: FATF travel rule implementation
+- [2025-04-11] Docs: API integration guidelines
