@@ -92,3 +92,4 @@ All notable changes to this project.
 - [2025-04-14] Research: blockchain compliance analysis
 - [2025-04-15] Add: transaction risk scoring model
 - [2025-04-16] Add: transaction risk scoring model
+- [2025-04-16] Research: blockchain compliance analysis
