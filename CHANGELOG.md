@@ -98,3 +98,4 @@ All notable changes to this project.
 - [2025-04-18] Add: sanctions screening documentation
 - [2025-04-20] Add: sanctions screening documentation
 - [2025-04-21] Docs: API integration guidelines
+- [2025-04-21] Docs: API integration guidelines
