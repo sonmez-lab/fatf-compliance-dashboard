@@ -106,3 +106,4 @@ All notable changes to this project.
 - [2025-04-23] Add: smart contract audit findings
 - [2025-04-23] Update: watchlist matching algorithm
 - [2025-04-23] Docs: API integration guidelines
+- [2025-04-24] Update: watchlist matching algorithm
