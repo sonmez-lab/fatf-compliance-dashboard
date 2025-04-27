@@ -111,3 +111,4 @@ All notable changes to this project.
 - [2025-04-25] Research: cross-border transaction monitoring
 - [2025-04-25] Update: watchlist matching algorithm
 - [2025-04-27] Update: AML risk assessment methodology
+- [2025-04-27] Update: OFAC SDN list integration
