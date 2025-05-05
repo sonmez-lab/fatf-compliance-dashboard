@@ -119,3 +119,4 @@ All notable changes to this project.
 - [2025-04-30] Add: sanctions screening documentation
 - [2025-04-30] Fix: address validation edge cases
 - [2025-04-30] Update: OFAC SDN list integration
+- [2025-05-05] Research: cross-border transaction monitoring
