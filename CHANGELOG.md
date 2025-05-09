@@ -124,3 +124,4 @@ All notable changes to this project.
 - [2025-05-07] Add: transaction risk scoring model
 - [2025-05-07] Update: KYC/KYT process documentation
 - [2025-05-08] Add: smart contract audit findings
+- [2025-05-08] Update: OFAC SDN list integration
