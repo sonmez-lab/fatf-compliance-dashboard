@@ -128,3 +128,4 @@ All notable changes to this project.
 - [2025-05-08] Fix: address validation edge cases
 - [2025-05-08] Docs: regulatory framework notes
 - [2025-05-09] Update: OFAC SDN list integration
+- [2025-05-09] Update: OFAC SDN list integration
