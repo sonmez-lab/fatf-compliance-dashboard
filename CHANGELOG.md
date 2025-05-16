@@ -143,3 +143,4 @@ All notable changes to this project.
 - [2025-05-14] Research: blockchain compliance analysis
 - [2025-05-14] Research: blockchain compliance analysis
 - [2025-05-14] Docs: regulatory framework notes
+- [2025-05-15] Add: smart contract audit findings
