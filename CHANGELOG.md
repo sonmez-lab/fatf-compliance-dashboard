@@ -158,3 +158,4 @@ All notable changes to this project.
 - [2025-05-21] Research: DeFi compliance requirements
 - [2025-05-22] Update: OFAC SDN list integration
 - [2025-05-22] Docs: API integration guidelines
+- [2025-05-22] Docs: API integration guidelines
