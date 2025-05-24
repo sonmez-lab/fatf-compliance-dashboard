@@ -163,3 +163,4 @@ All notable changes to this project.
 - [2025-05-23] Research: cross-border transaction monitoring
 - [2025-05-23] Refactor: compliance validation logic
 - [2025-05-23] Add: smart contract audit findings
+- [2025-05-24] Analysis: FATF travel rule implementation
