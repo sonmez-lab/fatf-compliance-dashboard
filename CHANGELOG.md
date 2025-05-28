@@ -167,3 +167,4 @@ All notable changes to this project.
 - [2025-05-25] Add: transaction risk scoring model
 - [2025-05-27] Research: cross-border transaction monitoring
 - [2025-05-28] Docs: API integration guidelines
+- [2025-05-28] Update: watchlist matching algorithm
