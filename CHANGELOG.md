@@ -175,3 +175,4 @@ All notable changes to this project.
 - [2025-05-30] Docs: API integration guidelines
 - [2025-05-31] Add: smart contract audit findings
 - [2025-06-01] Add: sanctions screening documentation
+- [2025-06-01] Fix: address validation edge cases
