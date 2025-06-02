@@ -178,3 +178,4 @@ All notable changes to this project.
 - [2025-06-01] Fix: address validation edge cases
 - [2025-06-02] Update: KYC/KYT process documentation
 - [2025-06-02] Update: OFAC SDN list integration
+- [2025-06-02] Research: DeFi compliance requirements
