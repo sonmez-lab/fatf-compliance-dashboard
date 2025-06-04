@@ -182,3 +182,4 @@ All notable changes to this project.
 - [2025-06-03] Fix: address validation edge cases
 - [2025-06-03] Add: sanctions screening documentation
 - [2025-06-03] Update: AML risk assessment methodology
+- [2025-06-04] Update: AML risk assessment methodology
