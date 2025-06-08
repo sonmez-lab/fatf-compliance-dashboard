@@ -188,3 +188,4 @@ All notable changes to this project.
 - [2025-06-07] Docs: regulatory framework notes
 - [2025-06-07] Refactor: compliance validation logic
 - [2025-06-08] Add: sanctions screening documentation
+- [2025-06-08] Add: transaction risk scoring model
