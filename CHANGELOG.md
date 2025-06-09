@@ -191,3 +191,4 @@ All notable changes to this project.
 - [2025-06-08] Add: transaction risk scoring model
 - [2025-06-09] Docs: API integration guidelines
 - [2025-06-09] Add: smart contract audit findings
+- [2025-06-09] Update: KYC/KYT process documentation
