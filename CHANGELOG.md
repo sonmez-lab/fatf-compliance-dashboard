@@ -189,3 +189,4 @@ All notable changes to this project.
 - [2025-06-07] Refactor: compliance validation logic
 - [2025-06-08] Add: sanctions screening documentation
 - [2025-06-08] Add: transaction risk scoring model
+- [2025-06-09] Docs: API integration guidelines
