@@ -194,3 +194,4 @@ All notable changes to this project.
 - [2025-06-09] Update: KYC/KYT process documentation
 - [2025-06-10] Research: cross-border transaction monitoring
 - [2025-06-11] Update: watchlist matching algorithm
+- [2025-06-12] Add: sanctions screening documentation
