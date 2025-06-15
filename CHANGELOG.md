@@ -197,3 +197,4 @@ All notable changes to this project.
 - [2025-06-12] Add: sanctions screening documentation
 - [2025-06-13] Update: KYC/KYT process documentation
 - [2025-06-13] Docs: API integration guidelines
+- [2025-06-14] Add: transaction risk scoring model
