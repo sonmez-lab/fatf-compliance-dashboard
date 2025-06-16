@@ -200,3 +200,4 @@ All notable changes to this project.
 - [2025-06-14] Add: transaction risk scoring model
 - [2025-06-15] Update: KYC/KYT process documentation
 - [2025-06-15] Update: watchlist matching algorithm
+- [2025-06-16] Update: watchlist matching algorithm
