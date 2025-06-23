@@ -207,3 +207,4 @@ All notable changes to this project.
 - [2025-06-19] Add: sanctions screening documentation
 - [2025-06-20] Research: blockchain compliance analysis
 - [2025-06-21] Add: sanctions screening documentation
+- [2025-06-22] Update: KYC/KYT process documentation
