@@ -210,3 +210,4 @@ All notable changes to this project.
 - [2025-06-22] Update: KYC/KYT process documentation
 - [2025-06-23] Update: OFAC SDN list integration
 - [2025-06-23] Update: watchlist matching algorithm
+- [2025-06-24] Add: smart contract audit findings
