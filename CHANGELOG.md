@@ -214,3 +214,4 @@ All notable changes to this project.
 - [2025-06-25] Research: DeFi compliance requirements
 - [2025-06-25] Update: KYC/KYT process documentation
 - [2025-06-25] Update: OFAC SDN list integration
+- [2025-06-26] Research: cross-border transaction monitoring
