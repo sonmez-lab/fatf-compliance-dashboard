@@ -239,3 +239,4 @@ All notable changes to this project.
 - [2025-07-08] Update: AML risk assessment methodology
 - [2025-07-08] Update: OFAC SDN list integration
 - [2025-07-09] Add: smart contract audit findings
+- [2025-07-09] Add: transaction risk scoring model
