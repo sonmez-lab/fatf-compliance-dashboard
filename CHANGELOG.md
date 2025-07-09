@@ -237,3 +237,4 @@ All notable changes to this project.
 - [2025-07-07] Docs: API integration guidelines
 - [2025-07-07] Update: KYC/KYT process documentation
 - [2025-07-08] Update: AML risk assessment methodology
+- [2025-07-08] Update: OFAC SDN list integration
