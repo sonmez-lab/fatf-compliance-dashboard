@@ -258,3 +258,4 @@ All notable changes to this project.
 - [2025-07-16] Add: smart contract audit findings
 - [2025-07-16] Analysis: FATF travel rule implementation
 - [2025-07-17] Docs: API integration guidelines
+- [2025-07-17] Docs: regulatory framework notes
