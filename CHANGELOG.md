@@ -265,3 +265,4 @@ All notable changes to this project.
 - [2025-07-20] Research: blockchain compliance analysis
 - [2025-07-21] Update: AML risk assessment methodology
 - [2025-07-22] Research: DeFi compliance requirements
+- [2025-07-22] Add: smart contract audit findings
