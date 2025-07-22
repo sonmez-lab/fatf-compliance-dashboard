@@ -266,3 +266,4 @@ All notable changes to this project.
 - [2025-07-21] Update: AML risk assessment methodology
 - [2025-07-22] Research: DeFi compliance requirements
 - [2025-07-22] Add: smart contract audit findings
+- [2025-07-22] Update: watchlist matching algorithm
