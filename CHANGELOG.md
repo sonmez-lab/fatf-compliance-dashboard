@@ -263,3 +263,4 @@ All notable changes to this project.
 - [2025-07-18] Research: cross-border transaction monitoring
 - [2025-07-20] Docs: regulatory framework notes
 - [2025-07-20] Research: blockchain compliance analysis
+- [2025-07-21] Update: AML risk assessment methodology
