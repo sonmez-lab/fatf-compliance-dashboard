@@ -273,3 +273,4 @@ All notable changes to this project.
 - [2025-07-25] Research: blockchain compliance analysis
 - [2025-07-25] Update: OFAC SDN list integration
 - [2025-07-27] Update: AML risk assessment methodology
+- [2025-07-27] Update: KYC/KYT process documentation
