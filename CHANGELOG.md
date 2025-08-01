@@ -283,3 +283,4 @@ All notable changes to this project.
 - [2025-07-29] Update: KYC/KYT process documentation
 - [2025-07-29] Research: blockchain compliance analysis
 - [2025-07-31] Fix: address validation edge cases
+- [2025-07-31] Analysis: FATF travel rule implementation
