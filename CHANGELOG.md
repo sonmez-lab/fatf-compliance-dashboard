@@ -288,3 +288,4 @@ All notable changes to this project.
 - [2025-07-31] Update: watchlist matching algorithm
 - [2025-08-01] Refactor: compliance validation logic
 - [2025-08-02] Add: sanctions screening documentation
+- [2025-08-02] Research: cross-border transaction monitoring
