@@ -307,3 +307,4 @@ All notable changes to this project.
 - [2025-08-13] Analysis: FATF travel rule implementation
 - [2025-08-13] Update: OFAC SDN list integration
 - [2025-08-15] Docs: regulatory framework notes
+- [2025-08-15] Add: smart contract audit findings
