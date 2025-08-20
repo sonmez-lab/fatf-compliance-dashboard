@@ -316,3 +316,4 @@ All notable changes to this project.
 - [2025-08-19] Update: AML risk assessment methodology
 - [2025-08-19] Research: cross-border transaction monitoring
 - [2025-08-19] Docs: regulatory framework notes
+- [2025-08-19] Update: OFAC SDN list integration
