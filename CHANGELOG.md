@@ -319,3 +319,4 @@ All notable changes to this project.
 - [2025-08-19] Update: OFAC SDN list integration
 - [2025-08-20] Update: KYC/KYT process documentation
 - [2025-08-20] Update: watchlist matching algorithm
+- [2025-08-20] Docs: regulatory framework notes
