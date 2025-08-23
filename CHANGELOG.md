@@ -324,3 +324,4 @@ All notable changes to this project.
 - [2025-08-21] Update: KYC/KYT process documentation
 - [2025-08-21] Add: sanctions screening documentation
 - [2025-08-22] Research: cross-border transaction monitoring
+- [2025-08-22] Research: blockchain compliance analysis
