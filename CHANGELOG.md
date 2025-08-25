@@ -326,3 +326,4 @@ All notable changes to this project.
 - [2025-08-22] Research: cross-border transaction monitoring
 - [2025-08-22] Research: blockchain compliance analysis
 - [2025-08-22] Update: AML risk assessment methodology
+- [2025-08-24] Update: KYC/KYT process documentation
