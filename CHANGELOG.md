@@ -328,3 +328,4 @@ All notable changes to this project.
 - [2025-08-22] Update: AML risk assessment methodology
 - [2025-08-24] Update: KYC/KYT process documentation
 - [2025-08-24] Analysis: FATF travel rule implementation
+- [2025-08-25] Refactor: compliance validation logic
