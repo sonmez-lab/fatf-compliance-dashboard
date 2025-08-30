@@ -335,3 +335,4 @@ All notable changes to this project.
 - [2025-08-28] Analysis: FATF travel rule implementation
 - [2025-08-29] Add: transaction risk scoring model
 - [2025-08-30] Add: transaction risk scoring model
+- [2025-08-30] Add: sanctions screening documentation
