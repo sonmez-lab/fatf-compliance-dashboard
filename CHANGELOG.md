@@ -341,3 +341,4 @@ All notable changes to this project.
 - [2025-09-01] Update: watchlist matching algorithm
 - [2025-09-01] Research: DeFi compliance requirements
 - [2025-09-01] Research: DeFi compliance requirements
+- [2025-09-02] Add: transaction risk scoring model
