@@ -343,3 +343,4 @@ All notable changes to this project.
 - [2025-09-01] Research: DeFi compliance requirements
 - [2025-09-02] Add: transaction risk scoring model
 - [2025-09-03] Research: blockchain compliance analysis
+- [2025-09-03] Docs: regulatory framework notes
