@@ -349,3 +349,4 @@ All notable changes to this project.
 - [2025-09-05] Docs: API integration guidelines
 - [2025-09-05] Add: transaction risk scoring model
 - [2025-09-06] Add: transaction risk scoring model
+- [2025-09-06] Add: sanctions screening documentation
