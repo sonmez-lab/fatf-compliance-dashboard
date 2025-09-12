@@ -362,3 +362,4 @@ All notable changes to this project.
 - [2025-09-11] Docs: API integration guidelines
 - [2025-09-11] Research: blockchain compliance analysis
 - [2025-09-11] Analysis: FATF travel rule implementation
+- [2025-09-11] Add: sanctions screening documentation
