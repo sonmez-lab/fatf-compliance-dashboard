@@ -360,3 +360,4 @@ All notable changes to this project.
 - [2025-09-10] Update: OFAC SDN list integration
 - [2025-09-10] Update: AML risk assessment methodology
 - [2025-09-11] Docs: API integration guidelines
+- [2025-09-11] Research: blockchain compliance analysis
