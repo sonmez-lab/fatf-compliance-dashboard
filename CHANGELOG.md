@@ -364,3 +364,4 @@ All notable changes to this project.
 - [2025-09-11] Analysis: FATF travel rule implementation
 - [2025-09-11] Add: sanctions screening documentation
 - [2025-09-12] Docs: regulatory framework notes
+- [2025-09-12] Research: cross-border transaction monitoring
