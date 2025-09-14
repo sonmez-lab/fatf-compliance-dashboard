@@ -366,3 +366,4 @@ All notable changes to this project.
 - [2025-09-12] Docs: regulatory framework notes
 - [2025-09-12] Research: cross-border transaction monitoring
 - [2025-09-12] Update: KYC/KYT process documentation
+- [2025-09-13] Fix: address validation edge cases
