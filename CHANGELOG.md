@@ -376,3 +376,4 @@ All notable changes to this project.
 - [2025-09-18] Fix: address validation edge cases
 - [2025-09-19] Add: smart contract audit findings
 - [2025-09-20] Fix: address validation edge cases
+- [2025-09-21] Update: OFAC SDN list integration
