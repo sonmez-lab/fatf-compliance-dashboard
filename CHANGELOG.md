@@ -380,3 +380,4 @@ All notable changes to this project.
 - [2025-09-21] Docs: API integration guidelines
 - [2025-09-22] Update: OFAC SDN list integration
 - [2025-09-22] Update: OFAC SDN list integration
+- [2025-09-22] Add: smart contract audit findings
