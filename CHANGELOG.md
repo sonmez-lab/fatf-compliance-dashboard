@@ -382,3 +382,4 @@ All notable changes to this project.
 - [2025-09-22] Update: OFAC SDN list integration
 - [2025-09-22] Add: smart contract audit findings
 - [2025-09-25] Research: blockchain compliance analysis
+- [2025-09-26] Add: sanctions screening documentation
