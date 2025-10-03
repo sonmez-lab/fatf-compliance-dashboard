@@ -398,3 +398,4 @@ All notable changes to this project.
 - [2025-10-02] Analysis: FATF travel rule implementation
 - [2025-10-02] Update: OFAC SDN list integration
 - [2025-10-02] Update: KYC/KYT process documentation
+- [2025-10-03] Analysis: FATF travel rule implementation
