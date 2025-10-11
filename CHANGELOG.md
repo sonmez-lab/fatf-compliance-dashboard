@@ -407,3 +407,4 @@ All notable changes to this project.
 - [2025-10-10] Add: transaction risk scoring model
 - [2025-10-10] Research: cross-border transaction monitoring
 - [2025-10-10] Update: AML risk assessment methodology
+- [2025-10-11] Update: watchlist matching algorithm
