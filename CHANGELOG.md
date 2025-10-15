@@ -410,3 +410,4 @@ All notable changes to this project.
 - [2025-10-11] Update: watchlist matching algorithm
 - [2025-10-13] Docs: API integration guidelines
 - [2025-10-14] Refactor: compliance validation logic
+- [2025-10-14] Add: transaction risk scoring model
