@@ -425,3 +425,4 @@ All notable changes to this project.
 - [2025-10-17] Analysis: FATF travel rule implementation
 - [2025-10-18] Refactor: compliance validation logic
 - [2025-10-18] Refactor: compliance validation logic
+- [2025-10-19] Fix: address validation edge cases
