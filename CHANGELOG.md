@@ -428,3 +428,4 @@ All notable changes to this project.
 - [2025-10-19] Fix: address validation edge cases
 - [2025-10-20] Docs: API integration guidelines
 - [2025-10-22] Analysis: FATF travel rule implementation
+- [2025-10-22] Update: watchlist matching algorithm
