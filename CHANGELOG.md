@@ -438,3 +438,4 @@ All notable changes to this project.
 - [2025-10-27] Update: KYC/KYT process documentation
 - [2025-10-27] Research: DeFi compliance requirements
 - [2025-10-27] Add: sanctions screening documentation
+- [2025-10-28] Update: watchlist matching algorithm
