@@ -444,3 +444,4 @@ All notable changes to this project.
 - [2025-10-30] Research: cross-border transaction monitoring
 - [2025-10-30] Refactor: compliance validation logic
 - [2025-10-31] Add: smart contract audit findings
+- [2025-11-03] Docs: regulatory framework notes
