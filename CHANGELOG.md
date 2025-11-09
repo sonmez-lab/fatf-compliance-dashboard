@@ -456,3 +456,4 @@ All notable changes to this project.
 - [2025-11-07] Update: AML risk assessment methodology
 - [2025-11-08] Update: watchlist matching algorithm
 - [2025-11-08] Update: watchlist matching algorithm
+- [2025-11-09] Update: OFAC SDN list integration
