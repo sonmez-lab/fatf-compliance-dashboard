@@ -459,3 +459,4 @@ All notable changes to this project.
 - [2025-11-09] Update: OFAC SDN list integration
 - [2025-11-10] Refactor: compliance validation logic
 - [2025-11-11] Research: cross-border transaction monitoring
+- [2025-11-11] Add: sanctions screening documentation
