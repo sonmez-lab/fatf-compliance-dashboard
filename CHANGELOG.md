@@ -466,3 +466,4 @@ All notable changes to this project.
 - [2025-11-13] Fix: address validation edge cases
 - [2025-11-13] Research: cross-border transaction monitoring
 - [2025-11-13] Research: blockchain compliance analysis
+- [2025-11-13] Analysis: FATF travel rule implementation
