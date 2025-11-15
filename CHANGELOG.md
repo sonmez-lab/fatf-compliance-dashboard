@@ -470,3 +470,4 @@ All notable changes to this project.
 - [2025-11-14] Update: KYC/KYT process documentation
 - [2025-11-14] Update: watchlist matching algorithm
 - [2025-11-14] Add: smart contract audit findings
+- [2025-11-15] Research: blockchain compliance analysis
