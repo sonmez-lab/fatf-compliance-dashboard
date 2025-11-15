@@ -468,3 +468,4 @@ All notable changes to this project.
 - [2025-11-13] Research: blockchain compliance analysis
 - [2025-11-13] Analysis: FATF travel rule implementation
 - [2025-11-14] Update: KYC/KYT process documentation
+- [2025-11-14] Update: watchlist matching algorithm
