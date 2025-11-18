@@ -474,3 +474,4 @@ All notable changes to this project.
 - [2025-11-17] Update: OFAC SDN list integration
 - [2025-11-18] Research: DeFi compliance requirements
 - [2025-11-18] Research: cross-border transaction monitoring
+- [2025-11-18] Add: smart contract audit findings
