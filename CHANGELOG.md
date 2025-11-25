@@ -485,3 +485,4 @@ All notable changes to this project.
 - [2025-11-21] Refactor: compliance validation logic
 - [2025-11-23] Update: OFAC SDN list integration
 - [2025-11-24] Update: KYC/KYT process documentation
+- [2025-11-24] Add: transaction risk scoring model
