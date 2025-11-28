@@ -493,3 +493,4 @@ All notable changes to this project.
 - [2025-11-27] Add: sanctions screening documentation
 - [2025-11-28] Add: sanctions screening documentation
 - [2025-11-28] Add: sanctions screening documentation
+- [2025-11-28] Update: KYC/KYT process documentation
