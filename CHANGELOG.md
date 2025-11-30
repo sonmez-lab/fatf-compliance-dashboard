@@ -494,3 +494,4 @@ All notable changes to this project.
 - [2025-11-28] Add: sanctions screening documentation
 - [2025-11-28] Add: sanctions screening documentation
 - [2025-11-28] Update: KYC/KYT process documentation
+- [2025-11-29] Docs: API integration guidelines
