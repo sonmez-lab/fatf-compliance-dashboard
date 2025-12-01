@@ -496,3 +496,4 @@ All notable changes to this project.
 - [2025-11-28] Update: KYC/KYT process documentation
 - [2025-11-29] Docs: API integration guidelines
 - [2025-11-29] Refactor: compliance validation logic
+- [2025-11-30] Add: smart contract audit findings
