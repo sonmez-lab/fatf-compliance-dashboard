@@ -501,3 +501,4 @@ All notable changes to this project.
 - [2025-12-02] Fix: address validation edge cases
 - [2025-12-02] Fix: address validation edge cases
 - [2025-12-03] Add: sanctions screening documentation
+- [2025-12-03] Research: cross-border transaction monitoring
