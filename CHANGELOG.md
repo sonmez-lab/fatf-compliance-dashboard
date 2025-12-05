@@ -503,3 +503,4 @@ All notable changes to this project.
 - [2025-12-03] Add: sanctions screening documentation
 - [2025-12-03] Research: cross-border transaction monitoring
 - [2025-12-04] Add: transaction risk scoring model
+- [2025-12-04] Docs: regulatory framework notes
