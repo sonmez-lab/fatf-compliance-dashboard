@@ -505,3 +505,4 @@ All notable changes to this project.
 - [2025-12-04] Add: transaction risk scoring model
 - [2025-12-04] Docs: regulatory framework notes
 - [2025-12-06] Add: transaction risk scoring model
+- [2025-12-06] Update: AML risk assessment methodology
