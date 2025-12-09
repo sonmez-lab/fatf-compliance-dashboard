@@ -510,3 +510,4 @@ All notable changes to this project.
 - [2025-12-08] Update: watchlist matching algorithm
 - [2025-12-09] Analysis: FATF travel rule implementation
 - [2025-12-09] Analysis: FATF travel rule implementation
+- [2025-12-09] Add: transaction risk scoring model
