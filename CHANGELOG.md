@@ -508,3 +508,4 @@ All notable changes to this project.
 - [2025-12-06] Update: AML risk assessment methodology
 - [2025-12-07] Add: transaction risk scoring model
 - [2025-12-08] Update: watchlist matching algorithm
+- [2025-12-09] Analysis: FATF travel rule implementation
