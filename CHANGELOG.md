@@ -516,3 +516,4 @@ All notable changes to this project.
 - [2025-12-11] Refactor: compliance validation logic
 - [2025-12-11] Add: sanctions screening documentation
 - [2025-12-11] Update: AML risk assessment methodology
+- [2025-12-12] Add: transaction risk scoring model
