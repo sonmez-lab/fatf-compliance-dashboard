@@ -513,3 +513,4 @@ All notable changes to this project.
 - [2025-12-09] Add: transaction risk scoring model
 - [2025-12-10] Research: blockchain compliance analysis
 - [2025-12-10] Docs: API integration guidelines
+- [2025-12-11] Refactor: compliance validation logic
