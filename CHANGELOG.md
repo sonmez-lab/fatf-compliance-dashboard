@@ -519,3 +519,4 @@ All notable changes to this project.
 - [2025-12-12] Add: transaction risk scoring model
 - [2025-12-13] Update: KYC/KYT process documentation
 - [2025-12-14] Research: cross-border transaction monitoring
+- [2025-12-16] Research: cross-border transaction monitoring
