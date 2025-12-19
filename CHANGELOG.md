@@ -523,3 +523,4 @@ All notable changes to this project.
 - [2025-12-18] Update: watchlist matching algorithm
 - [2025-12-18] Fix: address validation edge cases
 - [2025-12-18] Docs: regulatory framework notes
+- [2025-12-19] Research: blockchain compliance analysis
