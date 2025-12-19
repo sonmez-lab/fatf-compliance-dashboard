@@ -525,3 +525,4 @@ All notable changes to this project.
 - [2025-12-18] Docs: regulatory framework notes
 - [2025-12-19] Research: blockchain compliance analysis
 - [2025-12-19] Research: blockchain compliance analysis
+- [2025-12-19] Docs: regulatory framework notes
