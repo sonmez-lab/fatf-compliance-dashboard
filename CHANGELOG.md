@@ -544,3 +544,4 @@ All notable changes to this project.
 - [2025-12-30] Add: smart contract audit findings
 - [2026-01-01] Refactor: compliance validation logic
 - [2026-01-01] Research: cross-border transaction monitoring
+- [2026-01-01] Update: watchlist matching algorithm
