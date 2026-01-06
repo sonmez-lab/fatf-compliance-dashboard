@@ -549,3 +549,4 @@ All notable changes to this project.
 - [2026-01-02] Research: cross-border transaction monitoring
 - [2026-01-03] Fix: address validation edge cases
 - [2026-01-05] Update: KYC/KYT process documentation
+- [2026-01-05] Update: watchlist matching algorithm
