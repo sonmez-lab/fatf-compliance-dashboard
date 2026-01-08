@@ -554,3 +554,4 @@ All notable changes to this project.
 - [2026-01-07] Fix: address validation edge cases
 - [2026-01-07] Fix: address validation edge cases
 - [2026-01-07] Update: AML risk assessment methodology
+- [2026-01-08] Add: transaction risk scoring model
