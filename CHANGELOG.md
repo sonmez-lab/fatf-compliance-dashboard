@@ -552,3 +552,4 @@ All notable changes to this project.
 - [2026-01-05] Update: watchlist matching algorithm
 - [2026-01-05] Update: OFAC SDN list integration
 - [2026-01-07] Fix: address validation edge cases
+- [2026-01-07] Fix: address validation edge cases
