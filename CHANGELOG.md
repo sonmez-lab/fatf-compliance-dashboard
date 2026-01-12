@@ -560,3 +560,4 @@ All notable changes to this project.
 - [2026-01-11] Docs: regulatory framework notes
 - [2026-01-12] Refactor: compliance validation logic
 - [2026-01-12] Analysis: FATF travel rule implementation
+- [2026-01-12] Add: smart contract audit findings
