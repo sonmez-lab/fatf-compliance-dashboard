@@ -563,3 +563,4 @@ All notable changes to this project.
 - [2026-01-12] Add: smart contract audit findings
 - [2026-01-13] Update: OFAC SDN list integration
 - [2026-01-13] Docs: regulatory framework notes
+- [2026-01-13] Update: OFAC SDN list integration
