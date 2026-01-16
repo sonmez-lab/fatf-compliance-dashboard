@@ -567,3 +567,4 @@ All notable changes to this project.
 - [2026-01-13] Update: AML risk assessment methodology
 - [2026-01-14] Research: blockchain compliance analysis
 - [2026-01-15] Research: cross-border transaction monitoring
+- [2026-01-16] Update: watchlist matching algorithm
