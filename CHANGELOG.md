@@ -569,3 +569,4 @@ All notable changes to this project.
 - [2026-01-15] Research: cross-border transaction monitoring
 - [2026-01-16] Update: watchlist matching algorithm
 - [2026-01-16] Research: DeFi compliance requirements
+- [2026-01-16] Update: KYC/KYT process documentation
