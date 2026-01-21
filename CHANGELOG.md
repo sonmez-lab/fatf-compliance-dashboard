@@ -574,3 +574,4 @@ All notable changes to this project.
 - [2026-01-19] Fix: address validation edge cases
 - [2026-01-19] Analysis: FATF travel rule implementation
 - [2026-01-19] Update: KYC/KYT process documentation
+- [2026-01-20] Update: OFAC SDN list integration
