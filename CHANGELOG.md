@@ -581,3 +581,4 @@ All notable changes to this project.
 - [2026-01-22] Docs: regulatory framework notes
 - [2026-01-22] Update: OFAC SDN list integration
 - [2026-01-23] Docs: API integration guidelines
+- [2026-01-25] Update: AML risk assessment methodology
