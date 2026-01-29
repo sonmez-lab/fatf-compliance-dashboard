@@ -588,3 +588,4 @@ All notable changes to this project.
 - [2026-01-29] Update: KYC/KYT process documentation
 - [2026-01-29] Refactor: compliance validation logic
 - [2026-01-29] Add: transaction risk scoring model
+- [2026-01-29] Research: blockchain compliance analysis
