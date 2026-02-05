@@ -596,3 +596,4 @@ All notable changes to this project.
 - [2026-02-03] Update: AML risk assessment methodology
 - [2026-02-05] Fix: address validation edge cases
 - [2026-02-05] Update: OFAC SDN list integration
+- [2026-02-05] Fix: address validation edge cases
