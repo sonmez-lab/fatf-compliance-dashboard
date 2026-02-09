@@ -602,3 +602,4 @@ All notable changes to this project.
 - [2026-02-06] Research: cross-border transaction monitoring
 - [2026-02-06] Update: KYC/KYT process documentation
 - [2026-02-06] Analysis: FATF travel rule implementation
+- [2026-02-09] Docs: API integration guidelines
