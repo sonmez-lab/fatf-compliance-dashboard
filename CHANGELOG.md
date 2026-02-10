@@ -606,3 +606,4 @@ All notable changes to this project.
 - [2026-02-09] Add: smart contract audit findings
 - [2026-02-10] Fix: address validation edge cases
 - [2026-02-10] Update: watchlist matching algorithm
+- [2026-02-10] Update: OFAC SDN list integration
