@@ -604,3 +604,4 @@ All notable changes to this project.
 - [2026-02-06] Analysis: FATF travel rule implementation
 - [2026-02-09] Docs: API integration guidelines
 - [2026-02-09] Add: smart contract audit findings
+- [2026-02-10] Fix: address validation edge cases
