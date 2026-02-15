@@ -611,3 +611,4 @@ All notable changes to this project.
 - [2026-02-13] Refactor: compliance validation logic
 - [2026-02-13] Fix: address validation edge cases
 - [2026-02-13] Update: AML risk assessment methodology
+- [2026-02-14] Analysis: FATF travel rule implementation
