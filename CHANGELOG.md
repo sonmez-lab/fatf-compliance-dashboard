@@ -613,3 +613,4 @@ All notable changes to this project.
 - [2026-02-13] Update: AML risk assessment methodology
 - [2026-02-14] Analysis: FATF travel rule implementation
 - [2026-02-15] Research: blockchain compliance analysis
+- [2026-02-15] Update: OFAC SDN list integration
