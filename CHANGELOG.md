@@ -617,3 +617,4 @@ All notable changes to this project.
 - [2026-02-16] Add: sanctions screening documentation
 - [2026-02-18] Fix: address validation edge cases
 - [2026-02-18] Research: blockchain compliance analysis
+- [2026-02-18] Fix: address validation edge cases
