@@ -623,3 +623,4 @@ All notable changes to this project.
 - [2026-02-19] Fix: address validation edge cases
 - [2026-02-20] Update: AML risk assessment methodology
 - [2026-02-20] Analysis: FATF travel rule implementation
+- [2026-02-20] Add: smart contract audit findings
