@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --fatf-compliant: #22c55e;
+  --fatf-grey: #f59e0b;
+  --fatf-black: #ef4444;
+  --fatf-unknown: #6b7280;
+}
+
+body {
+  @apply bg-gray-900 text-gray-100;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-800;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-600 rounded;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-500;
+}
+
+/* Leaflet map dark theme overrides */
+.leaflet-container {
+  background: #1f2937;
+}
+
+.leaflet-tile {
+  filter: brightness(0.8) saturate(1.2);
+}
+
+.leaflet-popup-content-wrapper {
+  @apply bg-gray-800 text-gray-100;
+}
+
+.leaflet-popup-tip {
+  @apply bg-gray-800;
+}
