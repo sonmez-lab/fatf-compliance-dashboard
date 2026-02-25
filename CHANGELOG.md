@@ -633,3 +633,4 @@ All notable changes to this project.
 - [2026-02-24] Research: cross-border transaction monitoring
 - [2026-02-24] Add: transaction risk scoring model
 - [2026-02-24] Docs: regulatory framework notes
+- [2026-02-25] Update: OFAC SDN list integration
