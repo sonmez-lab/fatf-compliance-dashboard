@@ -629,3 +629,4 @@ All notable changes to this project.
 - [2026-02-22] Update: AML risk assessment methodology
 - [2026-02-22] Add: smart contract audit findings
 - [2026-02-23] Add: smart contract audit findings
+- [2026-02-24] Add: sanctions screening documentation
