@@ -1,3 +1,8 @@
+![CI](https://github.com/sonmez-lab/fatf-compliance-dashboard/workflows/CI/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub stars](https://img.shields.io/github/stars/sonmez-lab/fatf-compliance-dashboard?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sonmez-lab/fatf-compliance-dashboard)
+
 # FATF Compliance Dashboard
 
 ## 👤 Author
